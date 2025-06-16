@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{C3332BE9-6BD0-4D43-B5A5-8D5F0407A92D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{90CEB16C-222C-475B-B87D-E024BAB69E6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CD9D50B6-0FB9-4CDE-9FDF-976A5F19B42D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LA.Services.API", "LA.Services.API\LA.Services.API.csproj", "{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{108F9825-0C3C-42CD-AE73-F6625D344477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Users.Services.API", "Users.Services.API\Users.Services.API.csproj", "{ACB2F024-719A-41C2-924E-890A0E230E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appointments.Services.API", "Appointments.Services.API\Appointments.Services.API.csproj", "{E45BBCB5-9EEB-4344-9336-7D5B493B23A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB2F024-719A-41C2-924E-890A0E230E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB2F024-719A-41C2-924E-890A0E230E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB2F024-719A-41C2-924E-890A0E230E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB2F024-719A-41C2-924E-890A0E230E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45BBCB5-9EEB-4344-9336-7D5B493B23A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45BBCB5-9EEB-4344-9336-7D5B493B23A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45BBCB5-9EEB-4344-9336-7D5B493B23A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45BBCB5-9EEB-4344-9336-7D5B493B23A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57A74E2B-027D-4F2E-9A72-46BBEE18D68B} = {CD9D50B6-0FB9-4CDE-9FDF-976A5F19B42D}
+		{108F9825-0C3C-42CD-AE73-F6625D344477} = {CD9D50B6-0FB9-4CDE-9FDF-976A5F19B42D}
+		{ACB2F024-719A-41C2-924E-890A0E230E09} = {CD9D50B6-0FB9-4CDE-9FDF-976A5F19B42D}
+		{E45BBCB5-9EEB-4344-9336-7D5B493B23A8} = {CD9D50B6-0FB9-4CDE-9FDF-976A5F19B42D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FD571F-DEF5-49D7-8864-FE9BF9C1E98B}
+	EndGlobalSection
+EndGlobal

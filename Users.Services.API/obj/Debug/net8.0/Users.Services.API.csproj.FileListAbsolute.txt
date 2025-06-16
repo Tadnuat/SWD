@@ -1,0 +1,1051 @@
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.json
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.staticwebassets.endpoints.json
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.exe
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.deps.json
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.runtimeconfig.json
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.pdb
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Humanizer.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.AssemblyReference.cache
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfoInputs.cache
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfo.cs
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.CoreCompileInputs.cache
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\scopedcss\bundle\Users.Services.API.styles.css
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.Users.Services.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.Users.Services.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Users.Services.API.props
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Users.Services.API.props
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Users.Services.API.props
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Se.0C9A5B26.Up2Date
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\refint\Users.Services.API.dll
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.pdb
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.genruntimeconfig.cache
+D:\Mobile App\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\ref\Users.Services.API.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.Development.json
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.json
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.staticwebassets.endpoints.json
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.exe
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.deps.json
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.runtimeconfig.json
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.pdb
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Core.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Humanizer.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.ClientModel.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.AssemblyReference.cache
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfoInputs.cache
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfo.cs
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.CoreCompileInputs.cache
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cs
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cache
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\scopedcss\bundle\Users.Services.API.styles.css
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Se.0C9A5B26.Up2Date
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\refint\Users.Services.API.dll
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.pdb
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.genruntimeconfig.cache
+E:\LawAppointmentApp.vs\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\ref\Users.Services.API.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.AssemblyReference.cache
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfoInputs.cache
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfo.cs
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.CoreCompileInputs.cache
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cs
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cache
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\refint\Users.Services.API.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.pdb
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.Development.json
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.staticwebassets.endpoints.json
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.json
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.exe
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.deps.json
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.runtimeconfig.json
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.pdb
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Core.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Humanizer.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.ClientModel.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\scopedcss\bundle\Users.Services.API.styles.css
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Se.0C9A5B26.Up2Date
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.genruntimeconfig.cache
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\ref\Users.Services.API.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\MailKit.dll
+E:\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\MimeKit.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.json
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.staticwebassets.endpoints.json
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.exe
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.deps.json
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.runtimeconfig.json
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.pdb
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Core.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Humanizer.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\MailKit.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\MimeKit.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.AssemblyReference.cache
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfoInputs.cache
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfo.cs
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.CoreCompileInputs.cache
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\scopedcss\bundle\Users.Services.API.styles.css
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.Users.Services.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.Users.Services.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Users.Services.API.props
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Users.Services.API.props
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Users.Services.API.props
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Se.0C9A5B26.Up2Date
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\refint\Users.Services.API.dll
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.pdb
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.genruntimeconfig.cache
+D:\ASP.NET Lesson\LawAppointmentApp\LawAppointmentApp.vs - Copy\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\ref\Users.Services.API.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.Development.json
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.json
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.staticwebassets.endpoints.json
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.exe
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.deps.json
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.runtimeconfig.json
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.pdb
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Core.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Humanizer.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\MailKit.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\MimeKit.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.ClientModel.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.AssemblyReference.cache
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfoInputs.cache
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfo.cs
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.CoreCompileInputs.cache
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cs
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cache
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\scopedcss\bundle\Users.Services.API.styles.css
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Se.0C9A5B26.Up2Date
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\refint\Users.Services.API.dll
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.pdb
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.genruntimeconfig.cache
+E:\EXE1\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\ref\Users.Services.API.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.Development.json
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\appsettings.json
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.staticwebassets.endpoints.json
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.exe
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.deps.json
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.runtimeconfig.json
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Users.Services.API.pdb
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Core.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Humanizer.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\MailKit.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\MimeKit.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.AssemblyReference.cache
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfoInputs.cache
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.AssemblyInfo.cs
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.csproj.CoreCompileInputs.cache
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cs
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.MvcApplicationPartsAssemblyInfo.cache
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\scopedcss\bundle\Users.Services.API.styles.css
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.Users.Services.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.Users.Services.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Users.Services.API.props
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Users.Services.API.props
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Users.Services.API.props
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Se.0C9A5B26.Up2Date
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\refint\Users.Services.API.dll
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.pdb
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\Users.Services.API.genruntimeconfig.cache
+D:\SWD\LawAppointmentApp\LawAppointmentApp\LawAppointmentApp\Users.Services.API\obj\Debug\net8.0\ref\Users.Services.API.dll

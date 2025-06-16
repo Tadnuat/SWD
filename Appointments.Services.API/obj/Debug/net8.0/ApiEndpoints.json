@@ -1,0 +1,226 @@
+[
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentController",
+    "Method": "DeleteStatus",
+    "RelativePath": "api/Appointment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentController",
+    "Method": "UpdateCancelledStatus",
+    "RelativePath": "api/Appointment/{id}/cancel",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentController",
+    "Method": "UpdateCompletedStatus",
+    "RelativePath": "api/Appointment/{id}/complete",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentController",
+    "Method": "UpdateConfirmedStatus",
+    "RelativePath": "api/Appointment/{id}/confirm",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentController",
+    "Method": "Create",
+    "RelativePath": "api/Appointment/CREATE",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Appointments.Services.API.Models.Dtos.CreateAppointmentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentController",
+    "Method": "UpdateAppointment",
+    "RelativePath": "api/Appointment/UpdateAppointment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Appointments.Services.API.Models.Dtos.UpdateAppointmentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentWithUserLawyerController",
+    "Method": "GetAll",
+    "RelativePath": "api/AppointmentWithUserLawyer/GetAllAppointment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Appointments.Services.API.Models.Dtos.ResponseDto\u00601[[System.Collections.Generic.IEnumerable\u00601[[Appointments.Services.API.Models.Dtos.AppointmentWithUserLawyerDTO, Appointments.Services.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentWithUserLawyerController",
+    "Method": "GetById",
+    "RelativePath": "api/AppointmentWithUserLawyer/GetAppointmentById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Appointments.Services.API.Models.Dtos.ResponseDto\u00601[[Appointments.Services.API.Models.Dtos.AppointmentWithUserLawyerDTO, Appointments.Services.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentWithUserLawyerController",
+    "Method": "GetDeleted",
+    "RelativePath": "api/AppointmentWithUserLawyer/GetDeletedAppointment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Appointments.Services.API.Models.Dtos.ResponseDto\u00601[[System.Collections.Generic.IEnumerable\u00601[[Appointments.Services.API.Models.Dtos.AppointmentWithUserLawyerDTO, Appointments.Services.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentWithUserLawyerController",
+    "Method": "Restore",
+    "RelativePath": "api/AppointmentWithUserLawyer/restore/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Appointments.Services.API.Models.Dtos.ResponseDto\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentWithUserLawyerController",
+    "Method": "Update",
+    "RelativePath": "api/AppointmentWithUserLawyer/UpdateAppointment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedAppointment",
+        "Type": "Appointments.Services.API.Models.Appointment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Appointments.Services.API.Models.Dtos.ResponseDto\u00601[[Appointments.Services.API.Models.Dtos.AppointmentWithUserLawyerDTO, Appointments.Services.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

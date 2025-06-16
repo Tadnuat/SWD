@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VG7iHVOPqgiyj6/jtF7z95bxFBgUD3ceFKgdFG1XjDg=",
+  "Source": "LA.Services.API",
+  "BasePath": "_content/LA.Services.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

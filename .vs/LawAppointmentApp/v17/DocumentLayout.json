@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\la.services.api\\data\\lawyerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|solutionrelative:la.services.api\\data\\lawyerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\la.services.api\\controllers\\workslotapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|solutionrelative:la.services.api\\controllers\\workslotapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\la.services.api\\services\\workslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|solutionrelative:la.services.api\\services\\workslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\la.services.api\\services\\lawyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|solutionrelative:la.services.api\\services\\lawyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\la.services.api\\controllers\\lawyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|solutionrelative:la.services.api\\controllers\\lawyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\la.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|solutionrelative:la.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\la.services.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|solutionrelative:la.services.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\controllers\\userwithlawyerprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\controllers\\userwithlawyerprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\services\\iservice\\iuserwithlawyerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\services\\iservice\\iuserwithlawyerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\services\\userwithlawyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\services\\userwithlawyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\services\\lawyerprofileapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\services\\lawyerprofileapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\la.services.api\\controllers\\lawyerdiplomacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|solutionrelative:la.services.api\\controllers\\lawyerdiplomacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\la.services.api\\models\\lawyerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A74E2B-027D-4F2E-9A72-46BBEE18D68B}|LA.Services.API\\LA.Services.API.csproj|solutionrelative:la.services.api\\models\\lawyerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|d:\\swd\\lawappointmentapp\\lawappointmentapp\\lawappointmentapp\\users.services.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2F024-719A-41C2-924E-890A0E230E09}|Users.Services.API\\Users.Services.API.csproj|solutionrelative:users.services.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkSlotService.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Services\\WorkSlotService.cs",
+              "RelativeDocumentMoniker": "LA.Services.API\\Services\\WorkSlotService.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Services\\WorkSlotService.cs",
+              "RelativeToolTip": "LA.Services.API\\Services\\WorkSlotService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:56:53.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LawyerController.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Controllers\\LawyerController.cs",
+              "RelativeDocumentMoniker": "LA.Services.API\\Controllers\\LawyerController.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Controllers\\LawyerController.cs",
+              "RelativeToolTip": "LA.Services.API\\Controllers\\LawyerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:47:42.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkSlotAPIController.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Controllers\\WorkSlotAPIController.cs",
+              "RelativeDocumentMoniker": "LA.Services.API\\Controllers\\WorkSlotAPIController.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Controllers\\WorkSlotAPIController.cs",
+              "RelativeToolTip": "LA.Services.API\\Controllers\\WorkSlotAPIController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:41:17.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LawyerDbContext.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Data\\LawyerDbContext.cs",
+              "RelativeDocumentMoniker": "LA.Services.API\\Data\\LawyerDbContext.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Data\\LawyerDbContext.cs",
+              "RelativeToolTip": "LA.Services.API\\Data\\LawyerDbContext.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:30:19.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LA.Services.API\\appsettings.json",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\appsettings.json",
+              "RelativeToolTip": "LA.Services.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T14:29:46.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LawyerService.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Services\\LawyerService.cs",
+              "RelativeDocumentMoniker": "LA.Services.API\\Services\\LawyerService.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Services\\LawyerService.cs",
+              "RelativeToolTip": "LA.Services.API\\Services\\LawyerService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:12:05.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserWithLawyerProfileController.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Controllers\\UserWithLawyerProfileController.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\Controllers\\UserWithLawyerProfileController.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Controllers\\UserWithLawyerProfileController.cs",
+              "RelativeToolTip": "Users.Services.API\\Controllers\\UserWithLawyerProfileController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:37:41.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Users.Services.API\\appsettings.json",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\appsettings.json",
+              "RelativeToolTip": "Users.Services.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T05:13:09.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Program.cs",
+              "RelativeDocumentMoniker": "LA.Services.API\\Program.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Program.cs",
+              "RelativeToolTip": "LA.Services.API\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:11:43.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserWithLawyerService.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Services\\UserWithLawyerService.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\Services\\UserWithLawyerService.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Services\\UserWithLawyerService.cs",
+              "RelativeToolTip": "Users.Services.API\\Services\\UserWithLawyerService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswDgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:12:19.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserWithLawyerProfileService.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Services\\IService\\IUserWithLawyerProfileService.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\Services\\IService\\IUserWithLawyerProfileService.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Services\\IService\\IUserWithLawyerProfileService.cs",
+              "RelativeToolTip": "Users.Services.API\\Services\\IService\\IUserWithLawyerProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:37:29.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\MappingConfig.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\MappingConfig.cs",
+              "RelativeToolTip": "Users.Services.API\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:13:12.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LawyerProfileApiClient.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Services\\LawyerProfileApiClient.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\Services\\LawyerProfileApiClient.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Services\\LawyerProfileApiClient.cs",
+              "RelativeToolTip": "Users.Services.API\\Services\\LawyerProfileApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:12:56.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\Services\\EmailService.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Services\\EmailService.cs",
+              "RelativeToolTip": "Users.Services.API\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:12:55.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\Data\\UserDbContext.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "Users.Services.API\\Data\\UserDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:12:33.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Program.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\Program.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Program.cs",
+              "RelativeToolTip": "Users.Services.API\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:11:34.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LawyerDiplomaController.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Controllers\\LawyerDiplomaController.cs",
+              "RelativeDocumentMoniker": "LA.Services.API\\Controllers\\LawyerDiplomaController.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Controllers\\LawyerDiplomaController.cs",
+              "RelativeToolTip": "LA.Services.API\\Controllers\\LawyerDiplomaController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:11:59.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\Services\\AuthService.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "Users.Services.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:43:28.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LawyerProfile.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Models\\LawyerProfile.cs",
+              "RelativeDocumentMoniker": "LA.Services.API\\Models\\LawyerProfile.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\LA.Services.API\\Models\\LawyerProfile.cs",
+              "RelativeToolTip": "LA.Services.API\\Models\\LawyerProfile.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:11:56.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Users.Services.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:43:16.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Users.Services.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\SWD\\LawAppointmentApp\\LawAppointmentApp\\LawAppointmentApp\\Users.Services.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Users.Services.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:43:02.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
