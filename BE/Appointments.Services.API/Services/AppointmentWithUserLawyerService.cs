@@ -270,7 +270,107 @@ namespace Appointments.Services.API.Services
             // Trả về thông tin chi tiết đã cập nhật
             return await GetAppointmentWithUserLawyerByIdAsync(appointment.Id);
         }
+        // Lấy danh sách lịch hẹn theo LawyerId
+        public async Task<IEnumerable<AppointmentWithUserLawyerDTO>> GetAppointmentsByLawyerIdAsync(int lawyerId)
+        {
+            var appointments = await _context.Appointments
+                .Where(a => a.LawyerId == lawyerId && !a.IsDel)
+                .ToListAsync();
 
+            var result = new List<AppointmentWithUserLawyerDTO>();
+            var userClient = _httpClientFactory.CreateClient("UserService");
+
+            foreach (var appointment in appointments)
+            {
+                // Lấy thông tin User
+                UserWithLawyerProfileDTO? userWithLawyer = null;
+                var userLawyerResponse = await userClient.GetAsync($"/api/UserWithLawyerProfile/{appointment.UserId}");
+                if (userLawyerResponse.IsSuccessStatusCode)
+                {
+                    var responseDto = await userLawyerResponse.Content.ReadFromJsonAsync<ResponseDto<UserWithLawyerProfileDTO>>();
+                    userWithLawyer = responseDto?.Result;
+                }
+
+                // Lấy thông tin Lawyer
+                UserWithLawyerProfileDTO? lawyerWithProfile = null;
+                var lawyerProfileResponse = await userClient.GetAsync($"/api/UserWithLawyerProfile/{appointment.LawyerId}");
+                if (lawyerProfileResponse.IsSuccessStatusCode)
+                {
+                    var responseDto = await lawyerProfileResponse.Content.ReadFromJsonAsync<ResponseDto<UserWithLawyerProfileDTO>>();
+                    lawyerWithProfile = responseDto?.Result;
+                }
+
+                result.Add(new AppointmentWithUserLawyerDTO
+                {
+                    Id = appointment.Id,
+                    UserId = appointment.UserId,
+                    LawyerId = appointment.LawyerId,
+                    ScheduledAt = appointment.ScheduledAt,
+                    Slot = appointment.Slot,
+                    CreateAt = appointment.CreateAt,
+                    Status = appointment.Status,
+                    IsDel = appointment.IsDel,
+                    Note = appointment.Note,
+                    Spec = appointment.Spec,
+                    Services = appointment.Services,
+                    User = userWithLawyer?.User,
+                    LawyerProfile = lawyerWithProfile?.LawyerProfile
+                });
+            }
+
+            return result;
+        }
+
+        // Lấy danh sách lịch hẹn theo UserId
+        public async Task<IEnumerable<AppointmentWithUserLawyerDTO>> GetAppointmentsByUserIdAsync(int userId)
+        {
+            var appointments = await _context.Appointments
+                .Where(a => a.UserId == userId && !a.IsDel)
+                .ToListAsync();
+
+            var result = new List<AppointmentWithUserLawyerDTO>();
+            var userClient = _httpClientFactory.CreateClient("UserService");
+
+            foreach (var appointment in appointments)
+            {
+                // Lấy thông tin User
+                UserWithLawyerProfileDTO? userWithLawyer = null;
+                var userLawyerResponse = await userClient.GetAsync($"/api/UserWithLawyerProfile/{appointment.UserId}");
+                if (userLawyerResponse.IsSuccessStatusCode)
+                {
+                    var responseDto = await userLawyerResponse.Content.ReadFromJsonAsync<ResponseDto<UserWithLawyerProfileDTO>>();
+                    userWithLawyer = responseDto?.Result;
+                }
+
+                // Lấy thông tin Lawyer
+                UserWithLawyerProfileDTO? lawyerWithProfile = null;
+                var lawyerProfileResponse = await userClient.GetAsync($"/api/UserWithLawyerProfile/{appointment.LawyerId}");
+                if (lawyerProfileResponse.IsSuccessStatusCode)
+                {
+                    var responseDto = await lawyerProfileResponse.Content.ReadFromJsonAsync<ResponseDto<UserWithLawyerProfileDTO>>();
+                    lawyerWithProfile = responseDto?.Result;
+                }
+
+                result.Add(new AppointmentWithUserLawyerDTO
+                {
+                    Id = appointment.Id,
+                    UserId = appointment.UserId,
+                    LawyerId = appointment.LawyerId,
+                    ScheduledAt = appointment.ScheduledAt,
+                    Slot = appointment.Slot,
+                    CreateAt = appointment.CreateAt,
+                    Status = appointment.Status,
+                    IsDel = appointment.IsDel,
+                    Note = appointment.Note,
+                    Spec = appointment.Spec,
+                    Services = appointment.Services,
+                    User = userWithLawyer?.User,
+                    LawyerProfile = lawyerWithProfile?.LawyerProfile
+                });
+            }
+
+            return result;
+        }
 
     }
 }

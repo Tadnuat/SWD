@@ -102,6 +102,58 @@
   },
   {
     "ContainingType": "Appointments.Services.API.Controllers.AppointmentWithUserLawyerController",
+    "Method": "GetByLawyerId",
+    "RelativePath": "api/AppointmentWithUserLawyer/by-lawyer/{lawyerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lawyerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Appointments.Services.API.Models.Dtos.AppointmentWithUserLawyerDTO, Appointments.Services.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentWithUserLawyerController",
+    "Method": "GetByUserId",
+    "RelativePath": "api/AppointmentWithUserLawyer/by-user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Appointments.Services.API.Models.Dtos.AppointmentWithUserLawyerDTO, Appointments.Services.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Appointments.Services.API.Controllers.AppointmentWithUserLawyerController",
     "Method": "GetAll",
     "RelativePath": "api/AppointmentWithUserLawyer/GetAllAppointment",
     "HttpMethod": "GET",

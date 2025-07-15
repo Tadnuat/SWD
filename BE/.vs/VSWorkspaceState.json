@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\LA.Services.API",
-    "\\User.Services.API",
-    "\\Users.Services.API"
+    "\\Users.Services.API",
+    "\\Users.Services.API\\Services"
   ],
-  "SelectedNode": "\\LawAppointmentApp.sln",
+  "SelectedNode": "\\Users.Services.API\\Services\\ReviewService.cs",
   "PreviewInSolutionExplorer": false
 }

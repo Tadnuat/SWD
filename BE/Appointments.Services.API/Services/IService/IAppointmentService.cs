@@ -1,4 +1,4 @@
-using Appointments.Services.API.Models;
+﻿using Appointments.Services.API.Models;
 using Appointments.Services.API.Models.Dtos;
 using Appointments.Services.API.Models.DTOs;    
 
@@ -12,6 +12,7 @@ namespace Appointments.Services.API.Services.IService
         Task<bool> UpdateCompletedStatusAsync(int id);
         Task<bool> DeleteStatusAsync(int id);
         Task<Appointment?> UpdateAppointmentAsync(int id, UpdateAppointmentDTO dto);
+
 
     }
 } 

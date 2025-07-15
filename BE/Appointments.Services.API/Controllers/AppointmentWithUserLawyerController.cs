@@ -136,6 +136,20 @@ namespace Appointments.Services.API.Controllers
             return Ok(response);
         }
 
+        [HttpGet("by-lawyer/{lawyerId}")]
+        public async Task<ActionResult<IEnumerable<AppointmentWithUserLawyerDTO>>> GetByLawyerId(int lawyerId)
+        {
+            var result = await _service.GetAppointmentsByLawyerIdAsync(lawyerId);
+            return Ok(result);
+        }
+
+        [HttpGet("by-user/{userId}")]
+        public async Task<ActionResult<IEnumerable<AppointmentWithUserLawyerDTO>>> GetByUserId(int userId)
+        {
+            var result = await _service.GetAppointmentsByUserIdAsync(userId);
+            return Ok(result);
+        }
+
 
     }
 }
